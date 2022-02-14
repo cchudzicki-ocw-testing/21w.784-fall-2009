@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Units
+parent_type: CourseSection
 parent_uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
 title: 'First Generation Console Games: Limited Affordance Simulations'
+type: CourseSection
 uid: 3b3de33c-bb72-ca3c-578e-b54049e71112
 ---
 

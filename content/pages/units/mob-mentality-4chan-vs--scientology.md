@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Units
+parent_type: CourseSection
 parent_uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
 title: 'Mob Mentality: 4chan vs. Scientology'
+type: CourseSection
 uid: 75c4048c-692f-1d47-e6b5-064724e81eaf
 ---
 

@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Units
+parent_type: CourseSection
 parent_uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
 title: Iran and "The Twitter Revolution"
+type: CourseSection
 uid: cddbfabd-f459-d730-d78c-25f54897e73b
 ---
 

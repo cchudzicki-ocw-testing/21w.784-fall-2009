@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Units
+parent_type: CourseSection
 parent_uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
 title: Personal Data Storage / Total Information Awareness
+type: CourseSection
 uid: 790992cd-c687-843a-5f6e-a742fc356634
 ---
 
