@@ -5,6 +5,7 @@ description: 'Example of student work: a reaction paper on World War II in propa
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21w-784-becoming-digital-writing-about-media-change-fall-2009/a4db3f4e5b40aabecd458ca322ae69fb_MIT21W_784F09_War_Story_IN.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: ''
 parent_title: World War II in Propaganda and Simulation
 parent_type: CourseSection
 resourcetype: Document
