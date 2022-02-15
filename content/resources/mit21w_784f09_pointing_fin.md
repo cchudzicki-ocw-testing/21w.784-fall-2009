@@ -9,6 +9,5 @@ parent_title: Technology of Presidential Politics
 parent_type: CourseSection
 resourcetype: Document
 title: Pointing Fingers
-type: OCWFile
 uid: 4fb7218b-d776-adcd-fc1e-fcdf500ac8f8
 ---

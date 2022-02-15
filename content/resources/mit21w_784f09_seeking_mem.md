@@ -8,6 +8,5 @@ parent_title: Trojan War and the Remains of Poetic Memory
 parent_type: CourseSection
 resourcetype: Document
 title: Seeking the Meme
-type: OCWFile
 uid: c608e8f1-a538-734c-2c91-783db740a9a5
 ---

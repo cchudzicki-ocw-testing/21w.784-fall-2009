@@ -5,7 +5,6 @@ parent_title: Units
 parent_type: CourseSection
 parent_uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
 title: Adversarial Media and the Dialectical Method
-type: CourseSection
 uid: 99906893-c19d-c409-ef7b-7e20e5ae76d7
 ---
 

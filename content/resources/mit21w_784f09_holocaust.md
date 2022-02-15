@@ -9,6 +9,5 @@ parent_title: World War II in Propaganda and Simulation
 parent_type: CourseSection
 resourcetype: Document
 title: Holocaust Era Apartment
-type: OCWFile
 uid: f3f5d559-bd04-a1a1-2b49-c8ba2534a9e5
 ---

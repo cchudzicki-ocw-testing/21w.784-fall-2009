@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Units
-type: CourseSection
 uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
 ---
 

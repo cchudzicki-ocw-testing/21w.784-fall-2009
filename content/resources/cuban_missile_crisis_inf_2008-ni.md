@@ -9,6 +9,5 @@ parent_title: Cuban Missile Crisis Officespace
 parent_type: CourseSection
 resourcetype: Other
 title: Cuban_Missile_Crisis_INF_2008
-type: OCWFile
 uid: ee9ddd9e-acba-ebc0-cab4-6fd61ea7af5c
 ---

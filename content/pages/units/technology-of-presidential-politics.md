@@ -5,7 +5,6 @@ parent_title: Units
 parent_type: CourseSection
 parent_uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
 title: Technology of Presidential Politics
-type: CourseSection
 uid: 58f79256-781b-452f-ed00-0626d6f96468
 ---
 

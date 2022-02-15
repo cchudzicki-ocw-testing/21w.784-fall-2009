@@ -9,6 +9,5 @@ parent_title: Technology of Presidential Politics
 parent_type: CourseSection
 resourcetype: Document
 title: Politics and Adversarial Media
-type: OCWFile
 uid: a9d683ad-c36e-6bb9-24da-e9f06c03cdc5
 ---

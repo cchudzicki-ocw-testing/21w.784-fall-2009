@@ -5,7 +5,6 @@ parent_title: Units
 parent_type: CourseSection
 parent_uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
 title: Trojan War and the Remains of Poetic Memory
-type: CourseSection
 uid: 0433670c-3bbb-3084-1154-4ee9125a333f
 ---
 

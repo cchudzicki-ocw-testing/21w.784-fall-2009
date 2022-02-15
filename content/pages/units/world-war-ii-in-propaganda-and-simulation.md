@@ -5,7 +5,6 @@ parent_title: Units
 parent_type: CourseSection
 parent_uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
 title: World War II in Propaganda and Simulation
-type: CourseSection
 uid: ed2faf10-ec56-b73e-9194-d90834fb5375
 ---
 

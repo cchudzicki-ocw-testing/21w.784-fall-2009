@@ -9,6 +9,5 @@ parent_title: Technology of Presidential Politics
 parent_type: CourseSection
 resourcetype: Other
 title: Campaign_Ad_INF_2009
-type: OCWFile
 uid: 5176952e-b6c3-0619-7ab6-9f1af7ae8134
 ---

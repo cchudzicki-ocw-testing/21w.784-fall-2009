@@ -5,7 +5,6 @@ parent_title: Units
 parent_type: CourseSection
 parent_uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
 title: Broadcast Media and the Rwanda Genocide
-type: CourseSection
 uid: 0c1c9ed2-bbbd-cca0-3564-5b40a4781d57
 ---
 

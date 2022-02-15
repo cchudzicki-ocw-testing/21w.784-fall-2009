@@ -5,7 +5,6 @@ parent_title: Units
 parent_type: CourseSection
 parent_uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
 title: Cuban Missile Crisis Officespace
-type: CourseSection
 uid: 0bdee3af-0718-f1b0-779c-9297462a88e9
 ---
 

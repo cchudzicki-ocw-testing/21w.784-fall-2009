@@ -5,7 +5,6 @@ parent_title: Units
 parent_type: CourseSection
 parent_uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
 title: Cambodian Genocide Data
-type: CourseSection
 uid: 8b200b00-d85b-9dd2-18b9-a12b930c975f
 ---
 

@@ -9,6 +9,5 @@ parent_title: World War II in Propaganda and Simulation
 parent_type: CourseSection
 resourcetype: Document
 title: War Story INF 2009
-type: OCWFile
 uid: a4db3f4e-5b40-aabe-cd45-8ca322ae69fb
 ---

@@ -5,7 +5,6 @@ parent_title: Units
 parent_type: CourseSection
 parent_uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
 title: Market Garden and the Transmedia Band of Brothers
-type: CourseSection
 uid: 98c76c32-3862-2285-a1d3-b9efc59257ec
 ---
 
