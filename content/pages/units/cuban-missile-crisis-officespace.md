@@ -17,6 +17,6 @@ This unit contrasts document and documentary around the U.S. President's office 
 Assignments (Student Work)
 --------------------------
 
-Cuban Missile Crisis INF 2008 ([PDF]({{< baseurl >}}/resources/mit21w_784f09_cuban_missil))
+Cuban Missile Crisis INF 2008 ({{< resource_link 3397287e-71bc-f725-2a8f-9c31da15ac4a "PDF" >}})
 
-Cuban Missile Crisis INF 2008 ([NI]({{< baseurl >}}/resources/cuban_missile_crisis_inf_2008-ni))
+Cuban Missile Crisis INF 2008 ({{< resource_link ee9ddd9e-acba-ebc0-cab4-6fd61ea7af5c "NI" >}})
