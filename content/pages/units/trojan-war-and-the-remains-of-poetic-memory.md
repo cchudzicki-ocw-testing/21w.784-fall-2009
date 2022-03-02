@@ -34,4 +34,4 @@ Kirk, G. S. _The Iliad: A Commentary: Volume II: Books 5-8_. Cambridge, UK: Camb
 Assignments (Student Work)
 --------------------------
 
-Seeking the Meme: The memetics of language processing 2009. ({{< resource_link c608e8f1-a538-734c-2c91-783db740a9a5 "PDF" >}})
+Seeking the Meme: The memetics of language processing 2009. ({{% resource_link c608e8f1-a538-734c-2c91-783db740a9a5 "PDF" %}})

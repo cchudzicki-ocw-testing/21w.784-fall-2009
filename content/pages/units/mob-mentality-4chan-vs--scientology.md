@@ -30,4 +30,4 @@ Schirrmacher Frank, [The age of the informavore](http://www.edge.org/3rd_culture
 Assignments (Student Work)
 --------------------------
 
-“Anonymous” Project Chanology and its Relationship with Play 2009. ({{< resource_link ce3f1cf9-78df-70d9-1f5b-a6b33975367d "PDF" >}})
+“Anonymous” Project Chanology and its Relationship with Play 2009. ({{% resource_link ce3f1cf9-78df-70d9-1f5b-a6b33975367d "PDF" %}})
