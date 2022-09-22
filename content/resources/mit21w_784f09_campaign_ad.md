@@ -5,6 +5,7 @@ description: 'Example of student work: a reaction paper on politics and adversar
 file: /courses/21w-784-becoming-digital-writing-about-media-change-fall-2009/a9d683adc36e6bb924dae9f06c03cdc5_MIT21W_784F09_Campaign_Ad.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Technology of Presidential Politics
 parent_type: CourseSection
